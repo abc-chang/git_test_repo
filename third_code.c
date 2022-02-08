@@ -1,5 +1,11 @@
 
+// conflict merge test
+this is the fifth modify to third_code.c at test_3 branch
+
+this is the forth modify to third_code.c at test_3 branch
+
 this is the forth modify to third_code.c at main branch
+// conflict merge test
 
 this is the third modify to third_code.c at test_3 branch
 
